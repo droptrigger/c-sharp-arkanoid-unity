@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ball
+  - Platform
+  - Death
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3976196889
+    locked: 0
+  - name: Platform
+    uniqueID: 3551538717
+    locked: 0
+  - name: Ball
+    uniqueID: 2629700327
+    locked: 0
+  - name: Brick
+    uniqueID: 1761530403
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
