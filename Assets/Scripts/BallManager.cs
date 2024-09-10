@@ -35,7 +35,7 @@ public class BallManager : MonoBehaviour
 
     public float initialBallSpeed = 350;
 
-    private float upY = 0.32f;
+    private float upY = 0.32f; // how much is the ball raised above the platform if the gra has not started
 
     public List<Ball> Balls { get; set; }
 

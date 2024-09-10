@@ -118,7 +118,6 @@ public class BrickManager : MonoBehaviour
             else
             {
                 // end of current level
-                // add the mattrix to the last and continue the loop
                 currentRow = 0;
                 levelsData.Add(currentLevel);
                 currentLevel = new int[maxRows, maxCols];
