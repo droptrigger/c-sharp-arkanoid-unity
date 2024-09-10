@@ -72,6 +72,14 @@ The text file itself is read in a private LoadLevelsData List<>
 
 ### If you want to test the game, download the [Build](Build/) folder to yourself and run the file [Arkanoid.exe](Build/Arkanoid.exe)
 
+<div align="center"> <br />
+  
+<img src="https://github.com/user-attachments/assets/ad593b94-de65-465a-b574-2874393ea3ca" width="7%" />
+
+</div>
+
+
+
 
 
 
